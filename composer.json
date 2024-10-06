@@ -4,7 +4,7 @@
 		"aws/aws-sdk-php": "^3.240",
 		"phpunit/phpunit": "^8",
 		"nextcloud/coding-standard": "v1.1.1",
-		"nextcloud/ocp": "dev-master",
+		"nextcloud/ocp": "dev-stable30",
 		"psalm/phar": "^4.3",
 		"symfony/console": "5.4.19"
 	},
