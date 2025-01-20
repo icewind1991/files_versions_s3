@@ -4,6 +4,8 @@
 -->
 # files_versions_s3
 
+[![REUSE status](https://api.reuse.software/badge/github.com/nextcloud/files_versions_s3)](https://api.reuse.software/info/github.com/nextcloud/files_versions_s3)
+
 Use S3 object versioning for file versioning
 
 ## Warning
