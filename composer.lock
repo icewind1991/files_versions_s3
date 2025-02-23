@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d72cf25e94fb760eb62424903e9583d6",
+    "content-hash": "38d08879cf0ee36dbd51c8135c8754df",
     "packages": [
         {
             "name": "psr/log",
@@ -1215,16 +1215,16 @@
         },
         {
             "name": "nextcloud/ocp",
-            "version": "dev-master",
+            "version": "dev-stable29",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nextcloud-deps/ocp.git",
-                "reference": "a19e1b3d3ca65c22b5cef74c2de01cc362d624a1"
+                "reference": "071dfa79bf887f5515b5fb0b0d8a2e014cd54404"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nextcloud-deps/ocp/zipball/a19e1b3d3ca65c22b5cef74c2de01cc362d624a1",
-                "reference": "a19e1b3d3ca65c22b5cef74c2de01cc362d624a1",
+                "url": "https://api.github.com/repos/nextcloud-deps/ocp/zipball/071dfa79bf887f5515b5fb0b0d8a2e014cd54404",
+                "reference": "071dfa79bf887f5515b5fb0b0d8a2e014cd54404",
                 "shasum": ""
             },
             "require": {
@@ -1234,11 +1234,10 @@
                 "psr/event-dispatcher": "^1.0",
                 "psr/log": "^1.1.4"
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "30.0.0-dev"
+                    "dev-stable29": "29.0.0-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -1254,9 +1253,9 @@
             "description": "Composer package containing Nextcloud's public API (classes, interfaces)",
             "support": {
                 "issues": "https://github.com/nextcloud-deps/ocp/issues",
-                "source": "https://github.com/nextcloud-deps/ocp/tree/master"
+                "source": "https://github.com/nextcloud-deps/ocp/tree/stable29"
             },
-            "time": "2024-07-20T00:36:41+00:00"
+            "time": "2025-02-22T00:42:32+00:00"
         },
         {
             "name": "phar-io/manifest",
@@ -3807,7 +3806,7 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
+    "platform": {},
+    "platform-dev": {},
     "plugin-api-version": "2.6.0"
 }
